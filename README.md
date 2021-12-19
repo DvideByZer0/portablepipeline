@@ -1,2 +1,3 @@
-# pipedream
-Prototype for a pipeline thing
+# Tinyp
+
+Prototype for a tiny pipeline thing
