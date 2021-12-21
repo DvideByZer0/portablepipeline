@@ -1,4 +1,6 @@
-package com.alpha.build;
+package com.alpha.pp;
+
+import com.alpha.pp.Application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,13 +1,15 @@
-package com.alpha.build.controller;
+package com.alpha.pp.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
 import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.boot.web.server.LocalServerPort;
+
+import static com.alpha.pp.Constants.VERSION;
 import static org.assertj.core.api.Assertions.assertThat;
 
-import static com.alpha.build.Constants.VERSION;
+import com.alpha.pp.controller.VersionController;
 
 import org.junit.jupiter.api.Test;
 

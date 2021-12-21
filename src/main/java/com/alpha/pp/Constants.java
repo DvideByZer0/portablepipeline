@@ -1,4 +1,4 @@
-package com.alpha.build;
+package com.alpha.pp;
 
 /**
  * Project constants

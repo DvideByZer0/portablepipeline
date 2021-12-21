@@ -1,8 +1,8 @@
-package com.alpha.build.controller;
+package com.alpha.pp.controller;
 
-import static com.alpha.build.container.ContainerFactory.getClientInstance;
+import static com.alpha.pp.Constants.VERSION;
+import static com.alpha.pp.container.ContainerFactory.getClientInstance;
 import static org.springframework.http.HttpStatus.OK;
-import static com.alpha.build.Constants.VERSION;
 
 import com.github.dockerjava.api.DockerClient;
 import com.github.dockerjava.api.command.VersionCmd;

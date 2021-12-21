@@ -1,4 +1,4 @@
-package com.alpha.build;
+package com.alpha.pp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.alpha.build.model;
+package com.alpha.pp.model;
 
 /**
  * Pipeline step

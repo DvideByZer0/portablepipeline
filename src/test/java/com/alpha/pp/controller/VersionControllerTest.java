@@ -1,10 +1,12 @@
-package com.alpha.build.controller;
+package com.alpha.pp.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import static org.assertj.core.api.Assertions.assertThat;
+
+import com.alpha.pp.controller.VersionController;
 
 /**
  * Unit test of the {@link VersionController} class.
