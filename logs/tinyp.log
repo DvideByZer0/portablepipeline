@@ -1,0 +1,6 @@
+2021-12-21 10:10:47,699 INFO org.springframework.boot.StartupInfoLogger [main] Starting ApplicationTests using Java 17.0.1 on codespaces_3bf82c with PID 12012 (started by vscode in /workspaces/tinyp)
+2021-12-21 10:10:47,702 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-12-21 10:10:50,399 INFO org.springframework.boot.StartupInfoLogger [main] Started ApplicationTests in 3.411 seconds (JVM running for 5.665)
+2021-12-21 10:16:26,141 INFO org.springframework.boot.StartupInfoLogger [main] Starting VersionControllerTest using Java 17.0.1 on codespaces_3bf82c with PID 14668 (started by vscode in /workspaces/tinyp)
+2021-12-21 10:16:26,143 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-12-21 10:16:28,666 INFO org.springframework.boot.StartupInfoLogger [main] Started VersionControllerTest in 3.04 seconds (JVM running for 4.545)
