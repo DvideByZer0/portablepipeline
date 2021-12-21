@@ -1,4 +1,4 @@
-package com.alpha.pipeline;
+package com.alpha.build;
 
 import com.alpha.build.Application;
 
