@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
- * Unit test of the {@link Application} class.
+ * Unit test of the {@link VersionController} class.
  */
 @SpringBootTest
 public class VersionControllerTest {

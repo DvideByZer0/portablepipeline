@@ -4,7 +4,6 @@ import static com.alpha.build.container.ContainerFactory.getClientInstance;
 import static org.springframework.http.HttpStatus.OK;
 import static com.alpha.build.Constants.VERSION;
 
-import com.alpha.build.Constants;
 import com.github.dockerjava.api.DockerClient;
 import com.github.dockerjava.api.command.VersionCmd;
 import com.github.dockerjava.api.model.Version;
